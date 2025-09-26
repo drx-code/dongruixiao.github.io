@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://drx-code.github.io/dongruixiao.github.io/sitemap.xml
